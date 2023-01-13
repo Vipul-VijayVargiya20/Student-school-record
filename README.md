@@ -15,4 +15,6 @@ To start creating a CRUD Operation In JavaScript, makes sure that you have any p
 	<li><b> Step 5: The actual code:</b>You are free to copy the code  and paste to your different file created.</li>
 </ul>
 owner - Vipul Vijayvargiya
+
+direct link - https://vipul-vijayvargiya20.github.io/Student.schoolrecord.github.io/
  
